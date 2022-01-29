@@ -22,3 +22,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+Vue.ja projekat(igrica) sa dinamičkim porjmjenama css svojstava elemenata.
